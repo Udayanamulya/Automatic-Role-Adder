@@ -1,15 +1,15 @@
 {
   "prefix": "!",
-  "token": "",
+  "token": "OTU2NzIyNDA5NjY1MzQ3NjQw.Yj0XLQ.I7ogs3LHqnaq6gBFPYj9tFhdlKE",
   "mongooseConnectionString": "mongodb+srv://Just:just@just.yjl3l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "activity": "Adding Roles",
   "status": "idle",
-  "adminKey": "",
-  "needaccessrole": "",
-  "codeaccessrole": "",
-  "proofchannel": "",
-  "logchannel": "",
-  "developers": ["", ""],
+  "adminKey": "decoders",
+  "needaccessrole": "956724099282006067",
+  "codeaccessrole": "955262451358789742",
+  "proofchannel": "956722146942517299",
+  "logchannel": "956721604153446430",
+  "developers": ["710720629002862632", ""],
 
   "color": {
     "main"   : "#74ff89",
